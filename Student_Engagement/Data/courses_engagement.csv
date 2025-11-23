@@ -1,0 +1,51 @@
+course_id,course_title,minutes_watched,minutes_per_student,completion_rate
+2,"Introduction to Tableau",26179.02,40.21,0.42
+3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",44950.58,74.79,0.15
+4,"Introduction to R Programming",20737.1,69.12,0.18
+5,"Data Preprocessing with NumPy",37058.31,99.35,0.25
+7,"Introduction to Data and Data Science",297197.71,29.87,0.27
+11,"Data Cleaning and Preprocessing with pandas",21701.18,45.12,0.31
+12,"Introduction to Business Analytics",10002.14,38.62,0.14
+13,"Data Analysis with Excel Pivot Tables",22321.72,23.08,0.42
+14,SQL,215894.11,114.72,0.23
+15,"Credit Risk Modeling in Python",19513.04,42.98,0.11
+16,"Python Programmer Bootcamp",150891.8,107.55,0.17
+19,"SQL + Tableau + Python",5081.72,22.09,0.08
+20,"Introduction to Jupyter",12035.7,15.53,0.45
+21,Statistics,199005.66,80.93,0.4
+22,Mathematics,18588.64,24.65,0.48
+23,"Introduction to Excel",194196.44,63.11,0.29
+24,Probability,57515.15,81.12,0.37
+25,"Starting a Career in Data Science: Project Portfolio, Resume, and Interview Process",16635.13,34.02,0.14
+26,"SQL + Tableau",7304.91,22.62,0.29
+27,"Time Series Analysis with Python",12947.33,53.5,0.13
+28,"Power BI",44698.18,54.05,0.12
+29,"Product Management for AI & Data Science",8852.64,35.13,0.12
+30,"Git and GitHub",9997.8,24.5,0.49
+32,"Deep Learning with TensorFlow 2",17836.6,56.99,0.19
+33,"Customer Analytics in Python",10147.6,48.55,0.17
+34,"Web Scraping and API Fundamentals in Python",13879.82,40.82,0.19
+35,"Introduction to Python",45381.43,41.29,0.32
+36,"Python for Finance",5539.91,29.95,0.11
+37,"Machine Learning in Python",54566.52,50.9,0.17
+39,"Advanced Microsoft Excel",29763.26,51.85,0.35
+41,"Convolutional Neural Networks with TensorFlow in Python",4890.35,37.91,0.14
+42,"Data Strategy",133662.39,63.41,0.22
+43,"Fashion Analytics with Tableau",4868.47,29.69,0.15
+44,"Dates and Times in Python",2824.45,29.73,0.25
+45,"SQL for Data Science Interviews",18614.85,13.17,0.09
+46,"Data Literacy",80613.75,117.68,0.47
+48,"AI Applications for Business Success",1921.06,19.21,0.14
+49,"Linear Algebra and Feature Selection",4827.08,33.99,0.2
+50,"Machine Learning with Naive Bayes",4598.38,23.22,0.35
+51,"Machine Learning in Excel",4444.74,27.95,0.08
+52,"Machine Learning with Support Vector Machines",2961.85,25.31,0.46
+53,"A/B Testing in Python",6227.82,24.14,0.14
+54,"Machine Learning with Decision Trees and Random Forests",4267.68,33.08,0.38
+55,"Machine Learning with K-Nearest Neighbors",3475.05,32.18,0.4
+56,"Machine Learning with Ridge and Lasso Regression",1696.66,30.85,0.41
+57,"Data-Driven Business Growth",1089.26,11.84,0.06
+59,"Marketing Strategy",341.48,68.3,0.64
+60,Negotiation,84.45,84.45,0.95
+66,"Blockchain for Business",454.32,64.9,0.2
+67,"How to Think Like a Data Scientist to Become One",5089.67,44.65,0.26
