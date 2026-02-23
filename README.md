@@ -1,5 +1,7 @@
 **📊 Student Engagement Overview – Tableau Dashboard**
 
+<img width="1708" height="963" alt="Screenshot 2025-11-23 212520" src="https://github.com/user-attachments/assets/fc3705b6-b826-47ea-a22c-89ef86476770" />
+
 This repository contains a visually interactive Tableau dashboard created for an EdTech analytics use case. The dashboard provides a holistic view of student engagement, learning behavior, and course performance across the platform.
 
 **🔎 Project Overview**
